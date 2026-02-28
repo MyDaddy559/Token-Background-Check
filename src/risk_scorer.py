@@ -30,17 +30,17 @@ class RiskScorer:
         {
             "id": "top10_concentration_medium",
             "points": 10,
-            "description": "Top 10 holders own 50–80 % of supply – elevated concentration risk",
+            "description": "Top 10 holders own 50–80% of supply – elevated concentration risk",
         },
         {
             "id": "bundler_percentage_high",
             "points": 15,
-            "description": "More than 30 % of wallets are bundled – likely coordinated launch",
+            "description": "More than 30% of wallets are bundled – likely coordinated launch",
         },
         {
             "id": "bot_percentage_high",
             "points": 10,
-            "description": "More than 50 % of active wallets appear to be bots",
+            "description": "More than 50% of active wallets appear to be bots",
         },
         {
             "id": "no_liquidity_info",
